@@ -1,4 +1,4 @@
-# Rye-Raylib: Game and Graphics Programming with Rye Language
+# Rye-Raylib: Games and Graphics with Rye Language
 
 Rye-Raylib brings the power of [raylib](https://www.raylib.com/) graphics library to the [Rye programming language](https://ryelang.org/). Build cross-platform games, visualizations, and graphics applications with Rye's expressive syntax and raylib's simple yet powerful API.
 
